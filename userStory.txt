@@ -1,0 +1,4 @@
+Admin: Manage the web app
+Company:Manage profile,Add job offer,Delete offer,consult the job seeker profile
+Employee:Manage profile,consult the job offers,consult details of job offer
+visitor:consul prview of a job offer
